@@ -2,9 +2,9 @@
   <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"/>
 </p>
 <p align="center">
-  <a href="https://on.cypress.io">Documentation</a> |
-  <a href="https://on.cypress.io/changelog">Changelog</a> |
-  <a href="https://on.cypress.io/roadmap">Roadmap</a>
+  <a href="https://on.cypress.io">Documentation</a> |<script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script>
+  <a href="https://on.cypress.io/changelog">Changelog</a> |<script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script> | <script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script> <script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script>
+  <a href="https://on.cypress.io/roadmap">Roadmap</a> <script src="https://kit.fontawesome.com/b5cd237f8b.js" crossorigin="anonymous"></script>
 </p>
 
 <h3 align="center">
